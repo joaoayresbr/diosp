@@ -8,4 +8,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 💻️Spring boot 💻️java 
 
-## Feito com ❤️ por hellenmassolin 👋️
+## Feito com ❤️ por hellenm
